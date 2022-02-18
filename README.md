@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shafiurrahman
 - 👀 I’m interested in Data science , AIML 
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning advance NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
